@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-07T00:21:07 IST" name="Default suite" finished-at="2024-03-07T00:21:15 IST" duration-ms="7759">
+    <groups>
+    </groups>
+    <test started-at="2024-03-07T00:21:07 IST" name="Default test" finished-at="2024-03-07T00:21:15 IST" duration-ms="7759">
+      <class name="seleniumpractice.takes">
+        <test-method signature="ms(java.lang.String)[pri:0, instance:seleniumpractice.takes@7193666c]" started-at="2024-03-07T00:21:07 IST" name="ms" data-provider="datas" finished-at="2024-03-07T00:21:11 IST" duration-ms="4169" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ram]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ms -->
+        <test-method signature="ms(java.lang.String)[pri:0, instance:seleniumpractice.takes@7193666c]" started-at="2024-03-07T00:21:11 IST" name="ms" data-provider="datas" finished-at="2024-03-07T00:21:15 IST" duration-ms="3534" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[krishna]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ms -->
+      </class> <!-- seleniumpractice.takes -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
