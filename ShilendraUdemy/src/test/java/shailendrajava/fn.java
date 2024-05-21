@@ -1,6 +1,6 @@
-package ShalendraSelenium;
+package shailendrajava;
 
-public class we {
+public class fn {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

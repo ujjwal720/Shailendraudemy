@@ -6,7 +6,7 @@ public class windowfunctions1 {
 		// TODO Auto-generated method stub
 		
 		
-		System.setProperty("webdriver.chrome.driver", "")
+		System.setProperty("webdriver.chrome.driver", "");
 
 	}
 
