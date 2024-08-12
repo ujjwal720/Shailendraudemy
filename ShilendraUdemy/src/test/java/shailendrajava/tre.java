@@ -9,6 +9,9 @@ public class tre {
 		 * 
 		 * palindrome function
 		 */
+		
+		String s="Ujjwal";
+		
 
 	}
 
